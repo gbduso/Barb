@@ -6,13 +6,13 @@ body{
     width: 100%;
 }
 
+.titulo-principal {
+    padding-left: 20px;
+}
+
 .main{
     background: #cccccc; 
     padding: 30px;
-}
-
-h1{
-    text-align: center;
 }
 
 p{
@@ -32,9 +32,10 @@ em strong{
     padding: 20px;
 }
 
-h2{
+.titulo-centralizado{
     text-align: center;
 }
+
 .itens{
     font-style: italic;
 }
